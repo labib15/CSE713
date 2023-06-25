@@ -5,17 +5,18 @@ Link to unlisted YouTube video:
 https://youtube.com/.....
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+
 
 Project title:
-NLP using ANN
+Explainable Detection of Online Sexism Using Transformer Model
+
 
 Group Number:
-0
+15
 
 Group Members:
-12345678 Name A
-23456789 Name B
-34567890 Name C
-45678901 Name D
-56789012 Name E
+23366032 Labib Hasan Khan
+23366024 Farden Ehsan Khan
+23366025 Ahmed Mahir Ruhan
+23366008 Hamed Efaz Md. Elahi Dad
+23366048 Shafi Ahmed
