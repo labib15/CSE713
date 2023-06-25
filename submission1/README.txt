@@ -5,7 +5,7 @@ Link to unlisted YouTube video:
 https://youtube.com/.....
 
 Public link to the slide (Anyone on the internet can view without login):
-
+https://docs.google.com/presentation/d/1T4rA9awWcYITzNlLLV7mNO90tayWt4s1oKUbB9dS-FA/edit#slide=id.p
 
 Project title:
 Explainable Detection of Online Sexism Using Transformer Model
