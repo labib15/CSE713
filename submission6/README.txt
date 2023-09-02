@@ -5,7 +5,7 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/.....
 
 Paper title:
-
+Detection of Online Sexism Using Transformer Model
 
 Link to the paper:
 
