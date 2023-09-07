@@ -7,8 +7,8 @@ https://docs.google.com/presentation/.....
 Paper title:
 
 
-Link to the paper:
-
+Link to the flowchart:
+https://app.diagrams.net/#G18s5AzYXExztP_-Jot01uCg29plcfoYtv
 
 Group Number:
 15
