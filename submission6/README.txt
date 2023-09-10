@@ -10,6 +10,16 @@ Detection of Online Sexism Using Transformer Model
 Link to the paper:
 https://www.overleaf.com/project/64986170047810ba77a2f1ba
 
+Conference Name: 
+2023 IEEE 11th International Conference on Computer Science and Network Technology 
+
+Conference Submission ID: 
+7967
+
+Conference Website URL:
+http://www.iccsnt.org/ICCSNT2023/index.asp
+
+
 Group Number:
 15
 
