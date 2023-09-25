@@ -1,8 +1,8 @@
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://youtu.be/XN4OuO07HU4
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1AVE-yveq4CQAk-aVd7_WpjBXWx8PCz-o34g6uMPZspA/edit?usp=sharing
 
 Paper title:
 BiCHAT: BiLSTM with deep CNN and hierarchical attention for hate speech detection
